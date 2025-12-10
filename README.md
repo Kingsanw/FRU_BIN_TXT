@@ -1,0 +1,1 @@
+# FRU_BIN_TXT
